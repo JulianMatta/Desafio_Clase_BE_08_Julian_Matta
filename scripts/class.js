@@ -1,4 +1,4 @@
-class api {
+class Api {
     //definición de variables
     static fs= require('fs'); //importacion del paquete filesystem
 
@@ -97,5 +97,5 @@ class api {
 }
 
 //Exporto la clase CONTENEDOR para poder usarla desde main.js
-module.exports = api;
+module.exports = Api;
 
