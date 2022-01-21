@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "node": "^17.3.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "desafio_clase_be_08_julian_matta",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
